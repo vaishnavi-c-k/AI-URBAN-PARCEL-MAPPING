@@ -380,7 +380,12 @@ Team members can contribute to:
 
 **Application:** Automated analysis of satellite and drone imagery for building detection and candidate open-region extraction.
 
+
 **Repository:** [AI-URBAN-PARCEL-MAPPING](https://github.com/Yashaswini-Nanjundaiah/AI-URBAN-PARCEL-MAPPING)
+## 👥 Contributors
+
+- **Vaishnavi C K** – [@vaishnavi-c-k](https://github.com/vaishnavi-c-k)
+- **Yashaswini Nanjundaiah** – [@Yashaswini-Nanjundaiah](https://github.com/Yashaswini-Nanjundaiah)
 
 ---
 
